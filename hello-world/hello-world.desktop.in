@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Hello World
+_Comment=HelloWorld application
+Categories=GNOME;Utility;
+Exec=hello-world
+Icon=hello-world
+Terminal=false
+Type=Application
